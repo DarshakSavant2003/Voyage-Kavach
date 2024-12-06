@@ -69,3 +69,4 @@ node_modules/
 
 # Ignore fare prediction model file
 fare_prediction_model.json
+bfg-1.14.0.jar
